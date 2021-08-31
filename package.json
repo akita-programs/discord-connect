@@ -1,0 +1,27 @@
+{
+  "name": "discord-connect",
+  "version": "1.0.0",
+  "description": "A less object orientated API wrapper for Discord.",
+  "main": "./src/index.js",
+  "keywords": [
+      "api",
+      "bot",
+      "client",
+      "discord",
+      "discordapp",
+      "node"
+  ],
+  "author": "Voided for private reasons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akita-programs/discord-connect.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akita-programs/discord-connect/issues"
+  },
+  "homepage": "https://github.com/akita-programs/discord-connect#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
